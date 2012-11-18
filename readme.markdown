@@ -1,5 +1,13 @@
 # layering distributed systems
 
+modules covered:
+
+* [secure-peer](https://github.com/substack/secure-peer)
+* [dnode](https://github.com/substack/dnode)
+* [crdt](https://github.com/dominictarr/crdt)
+* [scuttlebutt](https://github.com/dominictarr/scuttlebutt)
+* [seaport](https://github.com/substack/seaport)
+
 ![author](https://raw.github.com/substack/nodefest-2012/master/images/author.png)
 
 # unix philosophy

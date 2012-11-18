@@ -14,7 +14,7 @@ layering distributed systems
 
 ![gossip protocol](https://raw.github.com/substack/nodefest-2012/master/images/gossip_protocol.png)
 
-[![scuttlebutt](https://raw.github.com/substack/nodefest-2012/master/images/gossip_protocol.png)](https://github.com/substack/nodefest-2012/tree/master/example/scuttlebutt)
+[![scuttlebutt](https://raw.github.com/substack/nodefest-2012/master/images/scuttlebutt.png)](https://github.com/substack/nodefest-2012/tree/master/example/scuttlebutt)
 
 ![a+b=b+a](https://raw.github.com/substack/nodefest-2012/master/images/a_plus_b.png)
 

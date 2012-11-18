@@ -18,7 +18,7 @@ layering distributed systems
 
 ![gossip protocol](./images/gossip_protocol.png)
 
-![scuttlebutt](./images/gossip_protocol.png)
+![scuttlebutt](./images/scuttlebutt.png)
 
 ![demo](./images/demo.png)
 

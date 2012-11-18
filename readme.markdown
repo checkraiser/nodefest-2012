@@ -1,5 +1,7 @@
 layering distributed systems
 
+![author](./images/author.png)
+
 ![layers](./images/layers.png)
 
 ![secure peer](./images/secure_peer.png)
@@ -9,6 +11,10 @@ layering distributed systems
 ![dnode](./images/dnode.png)
 
 ![demo](./images/demo.png)
+
+![network paritition](./images/network_partition.png)
+
+![eventual consistency](./images/eventual_consistency.png)
 
 ![gossip protocol](./images/gossip_protocol.png)
 

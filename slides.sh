@@ -1,2 +1,2 @@
 #!/bin/bash
-pqiv -i -f $(grep '^!' readme.markdown | sed 's/.*(//; s/)$//')
+pqiv -i -f $(grep '^!' slides.markdown | sed 's/.*(//; s/)$//')

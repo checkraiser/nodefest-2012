@@ -2,6 +2,10 @@ layering distributed systems
 
 ![author](./images/author.png)
 
+![unix philosophy](./images/unix_philosophy.png)
+
+![do one thing well](./images/one_thing.png)
+
 ![layers](./images/layers.png)
 
 ![secure peer](./images/secure_peer.png)

@@ -2,6 +2,14 @@
 
 ![author](https://raw.github.com/substack/nodefest-2012/master/images/author.png)
 
+# unix philosophy
+
+![unix philosophy](https://raw.github.com/substack/nodefest-2012/master/images/unix_philosophy.png)
+
+# do one thing well
+
+![do one thing well](https://raw.github.com/substack/nodefest-2012/master/images/one_thing.png)
+
 # layered software
 
 ![layers](https://raw.github.com/substack/nodefest-2012/master/images/layers.png)

@@ -14,7 +14,10 @@
    id="svg8501"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="eventual_consistency.svg">
+   sodipodi:docname="eventual_consistency.svg"
+   inkscape:export-filename="/home/substack/projects/talks/nodefest_japan/images/eventual_consistency.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs8503" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="440.45792"
-     inkscape:cy="480.87379"
+     inkscape:zoom="0.7"
+     inkscape:cx="593.6719"
+     inkscape:cy="393.15152"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"

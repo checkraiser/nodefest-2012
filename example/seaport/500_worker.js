@@ -1,6 +1,6 @@
 //!run2.sh
 var http = require('http');
-var split = require('event-stream').split;
+var split = require('split');
 var through = require('through');
 
 var server = http.createServer(function (req, res) {

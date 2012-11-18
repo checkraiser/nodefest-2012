@@ -1,5 +1,5 @@
 var http = require('http');
-var split = require('event-stream').split;
+var split = require('split');
 
 var server = http.createServer(function (req, res) {
     if (req.method !== 'POST') res.end('serious business logic\n');

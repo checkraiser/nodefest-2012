@@ -4,7 +4,7 @@ var ports = seaport.connect(7000);
 var http = require('http');
 var ecstatic = require('ecstatic')(__dirname + '/static');
 var request = require('request');
-var split = require('event-stream').split;
+var split = require('split');
 var through = require('through');
 
 var server = http.createServer(function (req, res) {

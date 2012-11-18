@@ -1,0 +1,12 @@
+{
+    "name" : "nodefest.jp-layering_distributed_systems",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "dnode" : "~1.0.2",
+        "split" : "~0.1.0",
+        "seaport" : "~1.1.0",
+        "secure-peer" : "~0.2.0",
+        "split" : "~0.1.0",
+        "through" : "~1.1.1"
+    }
+}
